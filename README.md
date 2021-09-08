@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/gallery/4S8rFjb.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/5dH0jkS"  ><a href="//imgur.com/a/5dH0jkS">Prework for CodePath - Jon Harvey</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 If link does not work: https://imgur.com/gallery/4S8rFjb
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
